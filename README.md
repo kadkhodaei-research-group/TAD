@@ -10,7 +10,7 @@ This code has been developed by **Seyyedfaridoddin Fattahpour** and **Sara Kadkh
 
 Please cite the following works if you use any part of this code, workflow, or data:
 
-1. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2025). *Diffusion Transition States in Temperature-Dependent Solids with Strong Anharmonic Vibrations: A Dual-GPR-Dimer Approach*. Under preparation.
+1. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2026). *Diffusion Transition States in Temperature-Dependent Solids with Strong Anharmonic Vibrations: A Dual-GPR-Dimer Approach*. Under preparation.
 
 2. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2023). Improving ab initio diffusion calculations in materials through Gaussian process regression. *Physical Review Materials* **8**, 013804. [DOI: 10.1103/PhysRevMaterials.8.013804](https://doi.org/10.1103/PhysRevMaterials.8.013804)
 
