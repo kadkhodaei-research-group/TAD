@@ -12,7 +12,7 @@ Please cite the following works if you use any part of this code, workflow, or d
 
 1. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2026). *Finite Temperature Diffusion Transition States in Strongly Anharmonic Solids*. Under preparation.
 
-2. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2023). Improving ab initio diffusion calculations in materials through Gaussian process regression. *Physical Review Materials* **8**, 013804. [DOI: 10.1103/PhysRevMaterials.8.013804](https://doi.org/10.1103/PhysRevMaterials.8.013804)
+2. **Seyyedfaridoddin Fattahpour, Sara Kadkhodaei** (2024). Improving ab initio diffusion calculations in materials through Gaussian process regression. *Physical Review Materials* **8**, 013804. [DOI: 10.1103/PhysRevMaterials.8.013804](https://doi.org/10.1103/PhysRevMaterials.8.013804)
 
 3. **Seyyedfaridoddin Fattahpour et al.** (2022). Understanding the role of anharmonic phonons in diffusion of bcc metals. *Physical Review Materials* **6**, 023803. [DOI: 10.1103/PhysRevMaterials.6.023803](https://doi.org/10.1103/PhysRevMaterials.6.023803)
 
