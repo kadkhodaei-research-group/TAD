@@ -1,10 +1,11 @@
 # TAD
 
-**Temperature-Aware Dimer (TAD)**: A saddle point search method designed for temperature-dependent energy surfaces that account for vibrational effects. Ideal for strongly anharmonic solids with low-temperature mechanical (phonon) instability, where density functional theory forces are unsuitable for dimer searches.
+**Temperature-Aware Dimer (TAD)**: A temperature-aware saddle-point search (dimer) framework that simultaneously samples and
+navigates the finite-temperature energy landscape toward the saddle point. It is designed to identify finite-temperture diffusion transition states in strongly anharmonic solids, particularly useful for solids with zero-temperature mechanical (phonon) instability, where density functional theory forces are unsuitable for dimer searches.
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Creative Commons License" width="75"> [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
-This code has been developed by **Seyyedfaridoddin Fattahpour** and **Sara Kadkhodaei**.
+This code has been developed by **Seyyedfaridoddin Fattahpour** under supervision of **Sara Kadkhodaei**.
 
 ## Reference / Citation
 
