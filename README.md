@@ -5,7 +5,7 @@ navigates the finite-temperature energy landscape toward the saddle point. It is
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Creative Commons License" width="75"> [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
-This code has been developed by **Seyyedfaridoddin Fattahpour** under supervision of **Sara Kadkhodaei**.
+This code has been developed by **Seyyedfaridoddin Fattahpour** under supervision of  Prof. **Sara Kadkhodaei**.
 
 ## Reference / Citation
 
